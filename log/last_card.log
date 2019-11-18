@@ -1,0 +1,13 @@
+2019-11-18 10:22:46.687
+Card type: 21 - MIFARE_CLASSIC_1K
+SAK: 08
+UID : 1DA61943 - Length: 4 bytes 
+Reversed UID    : 4319A61D
+Decimal UID     : 497424707
+Card content 0x : 
+ASCII content   : 
+Query length    :16
+Query bytes  0x :  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ASCII query     : ................
+Operation result: [0x00 (0)] UFR_OK
+Time took       : 27 ms
